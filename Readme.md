@@ -17,7 +17,7 @@ according to your preferences.
 
 ## Table of contents
 
-* [2 Spaces for indention](#2-spaces-for-indention)
+* [4 Spaces for indention](#4-spaces-for-indention)
 * [Newlines](#newlines)
 * [No trailing whitespace](#no-trailing-whitespace)
 * [Use Semicolons](#use-semicolons)
@@ -36,9 +36,9 @@ according to your preferences.
 * [Object.freeze, Object.preventExtensions, Object.seal, with, eval](#objectfreeze-objectpreventextensions-objectseal-with-eval)
 * [Getters and setters](#getters-and-setters)
 
-## 2 Spaces for indention
+## 4 Spaces for indention
 
-Use 2 spaces for indenting your code and swear an oath to never mix tabs and
+Use 4 spaces for indenting your code and swear an oath to never mix tabs and
 spaces - a special kind of hell is awaiting you otherwise.
 
 ## Newlines
